@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif&family=Parisienne&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+font-family: "Lato", serif;
+font-size: 16px;
+margin: 0px;
+background-color: #DFE8E7;
+}
+
+h1{
+font-family: "Lato";
+font-weight: bolder;
+}
+
+a{ 
+color: black;
+font-weight: bold;
+font-size: 16px
+text-decoration: none;
+ }
+
+a:hover {
+color: lightpink;
+}
+
+ul{
+color: deeppink;
+}
+
+h2{
+font-size: 20px;
+margin-top: 30px;
+}
+
+h4{ padding: 30px;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+  border-radius: 6px;
+  margin: 10px ;
+  flex-basis: 250px;
+  flex-grow: 1;
+  background-color: #F5F5F5;
+
+ }

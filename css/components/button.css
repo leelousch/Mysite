@@ -1,0 +1,14 @@
+.btn-pink {
+background-color: rgb(240, 240, 240);
+padding: 15px 20px;
+border-radius: 5px;
+color: deeppink;
+font-weight: bold;
+text-decoration: none;
+font-family: "PT Serif", serif;
+}
+
+.btn-pink:hover {
+background-color: lightpink;
+color: deeppink;
+}
